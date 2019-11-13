@@ -1,3 +1,11 @@
 # geo
 
-- [Country codes ISO 3166](https://github.com/datablock/geo/tree/country-codes)
+`datablock/geo:road-types`
+
+Road types (long name and short name)
+
+
+## Install
+
+### Composer
+`composer require datablock/geo:road-types`
