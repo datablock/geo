@@ -1,0 +1,35 @@
+{
+    "mr": {
+        "gender": "male",
+        "singular": {
+            "longname": "Monsieur",
+            "shortname": "M."
+        },
+        "plural": {
+            "longname": "Messieurs",
+            "shortname": "MM."
+        }
+    },
+    "ms": {
+        "gender": "female",
+        "singular": {
+            "longname": "Madame",
+            "shortname": "Mme"
+        },
+        "plural": {
+            "longname": "Mesdames",
+            "shortname": "Mmes"
+        }
+    },
+    "miss": {
+        "gender": "female",
+        "singular": {
+            "longname": "Mademoiselle",
+            "shortname": "Mlle"
+        },
+        "plural": {
+            "longname": "Mesdemoiselles",
+            "shortname": "Mlles"
+        }
+    }
+}
