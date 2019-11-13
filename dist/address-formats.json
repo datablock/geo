@@ -1,6 +1,16 @@
 {
+    "BE": [
+        "{civility_title} {firstname} {lastname}",
+        "{company_department}",
+        "{company_name}",
+        "{street_type} {street_name} {house_number}",
+        "{postcode:digit(4)} {city:uppercase}",
+        "Belgium"
+    ],
     "FR": [
-        "",
+        "{civility_title} {firstname} {lastname}",
+        "{company_department}",
+        "{company_name}",
         "{house_number} {street_type} {street_name}",
         "{postcode:digit(5)} {city:uppercase}",
         "France"
